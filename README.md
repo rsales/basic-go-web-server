@@ -16,5 +16,5 @@ $ go run main.go
 ```
 1. http://localhost:8080/
 2. http://localhost:8080/hello
-2. http://localhost:8080/form.html
+3. http://localhost:8080/form.html
 ```
